@@ -38,3 +38,12 @@ Steps:
         npm run dev
 
 This should set up your Element Quiz project in VSCode.
+
+
+![1](https://github.com/user-attachments/assets/de3ae3aa-9969-487b-8985-26bccdb5c01b)
+
+
+
+![2](https://github.com/user-attachments/assets/4fb5d17f-291f-4663-84f3-6511b5b027da)
+
+
