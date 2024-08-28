@@ -40,7 +40,8 @@ Steps:
 This should set up your Element Quiz project in VSCode.
 
 
-![121](https://github.com/user-attachments/assets/5ae328a4-375c-4bd2-8253-0b51193dac0b)
+![121](https://github.com/user-attachments/assets/049bc1ae-bc67-4419-8d56-2ad3041db23d)
+
 
 
 
