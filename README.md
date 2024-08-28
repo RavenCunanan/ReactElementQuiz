@@ -13,7 +13,7 @@ The **React Element Quiz** is an interactive web app that determines your elemen
 ## Cloning and Setting Up the Element Quiz Project in VSCode
 
 
-###Prerequisites:
+### Prerequisites:
 
 Node.js
 
