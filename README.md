@@ -29,7 +29,7 @@ Steps:
 
 2. Follow the prompts to:
 
-        Name your project. Select React. Select JavaScript.
+      Name your project. Select React. Select JavaScript.
 
 3. Replace the newly created src folder with the src folder from your GitHub repository.
 
