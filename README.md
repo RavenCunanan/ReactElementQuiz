@@ -1,16 +1,17 @@
 #React Element Quiz
 
 
-The React Element Quiz is an interactive web app that determines your elemental affinity based on your preferences. Built with React. Done as a final project for Codédex's React course
+The **React Element Quiz** is an interactive web app that determines your elemental affinity based on your preferences. Built with React. Done as a final project for Codédex's React course.
 
 ## Features
 
 - Interactive quiz with dynamic questions
 - Real-time result calculation based on user answers
-- Fetches and displays a random dog image as a fun addition
-- Smooth navigation using React Router
+- Navigation using React Router
+- Fetches and displays a random dog image from [Dog CEO API](https://dog.ceo/dog-api/) (Project Requirement)
 
-Cloning and Setting Up the Element Quiz Project in VSCode
+## Cloning and Setting Up the Element Quiz Project in VSCode
+
 
 Prerequisites:
 
