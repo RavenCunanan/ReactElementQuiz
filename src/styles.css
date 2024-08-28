@@ -92,7 +92,6 @@ html {
     text-align: center;
   }
 
-/* Container for centering the content vertically */
 .quiz-container {
   display: flex;
   flex-direction: column;
