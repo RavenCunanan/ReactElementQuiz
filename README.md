@@ -1,4 +1,4 @@
-#React Element Quiz
+# React Element Quiz
 
 
 The **React Element Quiz** is an interactive web app that determines your elemental affinity based on your preferences. Built with React. Done as a final project for Codédex's React course.
