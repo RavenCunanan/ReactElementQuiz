@@ -7,6 +7,7 @@ The **React Element Quiz** is an interactive web app that determines your elemen
 
 - Interactive quiz with dynamic questions
 - Real-time result calculation based on user answers
+- React Hooks for state management of our quiz results
 - Navigation using React Router
 - Fetches and displays a random dog image from [Dog CEO API](https://dog.ceo/dog-api/) (Project Requirement)
 
