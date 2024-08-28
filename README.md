@@ -15,11 +15,11 @@ The **React Element Quiz** is an interactive web app that determines your elemen
 
 ### Prerequisites:
 
-Node.js
+- Node.js
 
-Vite
+- Vite
 
-react-router-dom 
+- react-router-dom 
 
 Steps:
 
